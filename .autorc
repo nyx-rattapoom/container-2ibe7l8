@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nyx-rattapoom",
+  "repo": "container-2ibe7l8",
+  "name": "nyx-rattapoom",
+}
